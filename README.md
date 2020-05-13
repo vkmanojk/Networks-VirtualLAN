@@ -1,6 +1,6 @@
 # VLan Simulation - Python 3
 
-This repository contains the implementation of VLAN setup and RIP Routing Protocol simulations in Python.
+This repository contains the implementation of VLAN setup and RIP Routing Protocol simulations in Python 3.
 
 ## RIP Protocol Simulation
 [Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/RIPv2-Simulation/readme.md) to goto RIP Simulation
