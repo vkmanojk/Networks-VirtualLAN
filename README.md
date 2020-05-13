@@ -6,7 +6,8 @@ This repository contains the implementation of VLAN setup and RIP Routing Protoc
 [Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/RIPv2-Simulation/readme.md) to goto RIP Simulation
 
 # VLAN Simulation
-VLAN Simulation is done with the help of Netmiko
+VLAN Simulation is done with the help of Netmiko.
+Please find the complete network diagram [here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/VLAN.pkt). This file contains the detailed configuration file along with ip address ranges for all the devices.
 ### Simulation Diagram 
 ![alt text](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/output/VLanSimulationDiagram.png)
 
