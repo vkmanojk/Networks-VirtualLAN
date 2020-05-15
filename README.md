@@ -43,4 +43,5 @@ Please find the complete network diagram [here](https://github.com/vkmanojk/Netw
 ![alt text](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/output/sampleoutput4.png)
 
 ## Authors
-* [Manojkumar V K](https://vkmanojk.github.io/)  : [@vkmanojk  ](https://github.com/vkmanojk)    
+* [Manojkumar V K](https://vkmanojk.github.io/)   [@vkmanojk  ](https://github.com/vkmanojk)    
+* [Sudharshan S  ](http://sudharshanshanmugasundaram.github.io/)   [@SudharshanShanmugasundaram](https://github.com/SudharshanShanmugasundaram)    
