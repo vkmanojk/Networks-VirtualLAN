@@ -44,6 +44,5 @@ Please find the complete network diagram [here](https://github.com/vkmanojk/Netw
 
 ## Authors
 
-> [Manojkumar V K] (https://vkmanojk.github.io/) @vkmanojk
-
-> [Sudharshan S] (http://sudharshanshanmugasundaram.github.io/) @SudharshanShanmugasundaram
+* [Manojkumar V K] (https://vkmanojk.github.io/) @vkmanojk (https://github.com/vkmanojk/)
+* [Sudharshan S] (http://sudharshanshanmugasundaram.github.io/) @SudharshanShanmugasundaram(https://github.com/SudharshanShanmugasundaram)
