@@ -1,6 +1,13 @@
-# VLan Simulation - Python 3
+# Design And Simulation of VLAN for an Enterprise
 
-This repository contains the implementation of VLAN setup and RIP Routing Protocol simulations in Python 3.
+This repository contains the simulation of VLAN in Cisco Packet Tracer and the implementation of VLAN setup and RIP Routing Protocol simulations in Python 3.
+
+## Report
+The case study report can be found [here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/Report.pdf)
+
+
+## Network Simulation
+[Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/VLAN.pkt)
 
 ## RIP Protocol Simulation
 [Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/RIPv2-Simulation/readme.md) to goto RIP Simulation
