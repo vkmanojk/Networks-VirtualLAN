@@ -7,7 +7,7 @@ The case study report can be found [here](https://github.com/vkmanojk/Networks-V
 
 
 ## Network Simulation
-[Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/VLAN.pkt)
+[Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/VLAN.pkt) to download the packet tracer file
 
 ## RIP Protocol Simulation
 [Click Here](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/RIPv2-Simulation/readme.md) to goto RIP Simulation
@@ -41,3 +41,7 @@ Please find the complete network diagram [here](https://github.com/vkmanojk/Netw
 ##### VLAN
 ![alt text](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/output/sampleoutput3.png)
 ![alt text](https://github.com/vkmanojk/Networks-VirtualLAN/blob/master/output/sampleoutput4.png)
+
+## Authors
+> [Manojkumar V K] (https://vkmanojk.github.io/) @vkmanojk
+> [Sudharshan S] (http://sudharshanshanmugasundaram.github.io/) @SudharshanShanmugasundaram
